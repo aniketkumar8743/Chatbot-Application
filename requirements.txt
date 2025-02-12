@@ -12,3 +12,8 @@ pypdf
 chromadb
 faiss-cpu
 langchain-pinecone
+wikipedia
+arxiv
+groq
+langchain-groq
+sentence-transformers
